@@ -11,3 +11,5 @@ In the following example it is applied as follows:
 If at any time any step is not complied with, you must notify that it was rejected and the reason.
 
 If it passes all the validations, you must inform that the request was approved.
+
+![Diagram](src/diagram/chain-of-responsability-sample.PNG)
